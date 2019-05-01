@@ -1,0 +1,10 @@
+node_modules
+build
+test
+tmp-192912aG9DA5DWeJ/
+.env
+package-lock.json
+.idea/
+*.iml
+*.log
+.DS_Store
