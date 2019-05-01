@@ -33,3 +33,7 @@ Smart Contract to change the value/state of a variable on Ethereum Blockchain.
     4.  Insert a new value
     
         $await contract.setValue("Sachin");
+For a GUI interface ,checkout my below code
+https://github.com/divyanailwal73/StateChangeUI
+
+Above UI code is connecting to the same SmartContract which you checkout on your local just now. With the UI code you can learn how to interact with smart contracts via JS :)
