@@ -5,8 +5,9 @@ Smart Contract to change the value/state of a variable on Ethereum Blockchain.
 1. IntelliJ - install solidity plugin
 2. Setup truffle - npm install -g truffle
 3. Ganache CLI Setup - npm install -g ganache-cli
-4. Install Metamask browser plugin and create account. You'll get 12 word mnemonic. Save it somewhere safe.
-5. .env file on you local which will contain your private key (# DO NOT SHARE IT ANYWHERE)
+4. Truffle hd wallet & dotenv package - npm install -g truffle-hdwallet-provider dotenv --unsafe-perm=true --allow-root
+5. Install Metamask browser plugin and create account. You'll get 12 word mnemonic. Save it somewhere safe.
+6. .env file on you local which will contain your private key (# DO NOT SHARE IT ANYWHERE)
     it should look like :
     TEST_MNEMONIC=<YOUR_12_WORD_MNEMONIC>
 
